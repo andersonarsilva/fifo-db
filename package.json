@@ -1,0 +1,17 @@
+{
+  "name": "fifo-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fifo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^14.3.2",
+    "fifo-js": "^2.1.0",
+    "fs": "0.0.1-security",
+    "mysql": "^2.18.1"
+  }
+}
